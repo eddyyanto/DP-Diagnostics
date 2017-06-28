@@ -40,3 +40,7 @@ __Procedures__
 - Switch on projector and wait for log download process to start.
 - Click "Copy to Clipboard" button to copy the log.
 - Describe your problem in email and attach the log to our support email address.
+
+#### Download
+---
+[DP Diagnostics 1.6](https://github.com/eddyyanto/DP-Diagnostics/archive/master.zip)
