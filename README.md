@@ -4,9 +4,13 @@ A unified diagnostics utility for DP projectors.
 
 ![DP Diagnostics](dp-diagnostics.png)
 
-#### RS232
+
+#### Download
 ---
-__For HighLite Laser, M-Vision and E-Vision Series.__
+[DP Diagnostics 1.6](https://github.com/eddyyanto/DP-Diagnostics/archive/master.zip)
+
+
+#### For HighLite Laser, M-Vision and E-Vision Series
 
 
 | Series		 | Model				 | Baud rate | Cable Type		 |
@@ -21,7 +25,7 @@ __For HighLite Laser, M-Vision and E-Vision Series.__
 | E-Vision  	 | 6800					 | 9600		 | Cross (Null Modem)|
 
 
-__Procedures__
+**Procedures**
 - Connect a serial cable from your computer to the projector. 
 - Under RS-232 tab, select the correct COM port, baud-rate then click "Retrieve Log" button.
 - Switch on the projector and wait for log download process to start.
@@ -29,11 +33,9 @@ __Procedures__
 - Describe your problem in email and attach the log to our support email address.
 
 
-#### UDP 
----
-__For Titan Quad Series and HighLite 8000, 740 & 660 (Lamp Based).__
+#### For Titan Quad Series and HighLite 8000, 740 & 660 (Lamp Based)
 
-__Procedures__
+**Procedures**
 - Disconnect projector from main power before you proceed.
 - Connect a LAN cable from your computer to the projector "Update" port.
 - On UDP tab, click on "Retrieve Log" button and apply power to projector.
@@ -41,6 +43,7 @@ __Procedures__
 - Click "Copy to Clipboard" button to copy the log.
 - Describe your problem in email and attach the log to our support email address.
 
-#### Download
----
-[DP Diagnostics 1.6](https://github.com/eddyyanto/DP-Diagnostics/archive/master.zip)
+
+#### Authors
+
+Eddy Yanto
